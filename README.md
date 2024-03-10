@@ -9,6 +9,10 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
@@ -27,13 +31,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeindesign/E749A0" height="30" alt="adobeindesign logo"  />
 </div>
 
 ###

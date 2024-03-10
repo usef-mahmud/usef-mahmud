@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A curious driven Mathematics student with software development expertise and a strong interest in data science. Versatile professional with skills in graphic design, content creation, and marketing. Known for analytical thinking, problem-solving, and computational proficiency. Seeking opportunities to apply a dynamic skill set in impactful data science projects.</p>
+<p align="left">A curious driven Mathematics student with software development expertise and a strong interest in data science, machine learning, and research. Versatile professional with skills in graphic design, content creation, and marketing. Known for analytical thinking, problem-solving, and computational proficiency. Seeking opportunities to apply a dynamic skill set in impactful data science projects.</p>
 
 ###
 
